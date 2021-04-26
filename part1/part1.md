@@ -92,11 +92,13 @@ in the entire discountedPrices function.
 18.  coded in part1b-question18
 
 19.  the ouput is:
+    ```
     1
 
     4
 
     3
-    
+
     2
+    ```
     
