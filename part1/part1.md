@@ -51,7 +51,7 @@ in the entire discountedPrices function.
     E. student.courseLoad[0]
 
 
-1.  
+13.  
     ```
     A. '3' + 2 would print 32 because since 3 is a string, it would concatenate 2 to 3.
     
