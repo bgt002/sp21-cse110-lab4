@@ -48,7 +48,7 @@ in the entire discountedPrices function.
 
     D. student['Favorite Teacher'].name
     
-    E. student.courseLoad[0]```
+    E. student.courseLoad[0]
 
 
 1.  
@@ -83,7 +83,7 @@ in the entire discountedPrices function.
     
     F true === Boolean(2) would print true because Boolean(2) is the same as true. 
     ```
-    
+
 15.  The difference between == and === operators are that == checks for type conversion and === doesn't.
 
 16.  coded in part1b-question16.
