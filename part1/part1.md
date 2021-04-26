@@ -76,15 +76,15 @@ in the entire discountedPrices function.
     
     F true === Boolean(2) would print true because Boolean(2) is the same as true. 
 
-1.  The difference between == and === operators are that == checks for type conversion and === doesn't.
+15.  The difference between == and === operators are that == checks for type conversion and === doesn't.
 
-2.  coded in part1b-question16.
+16.  coded in part1b-question16.
 
-3.  The function returns an array with numbers that are double the value of the first array. modifyArray goes through the value of the original and sends it to doSomething so that doSomething can multiply it by two then return the new numbers into the array.
+17.  The function returns an array with numbers that are double the value of the first array. modifyArray goes through the value of the original and sends it to doSomething so that doSomething can multiply it by two then return the new numbers into the array.
 
-4.  coded in part1b-question18
+18.  coded in part1b-question18
 
-5.  the ouput is:
+19.  the ouput is:
     1
     4
     3
