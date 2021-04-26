@@ -38,17 +38,12 @@ in the entire discountedPrices function.
 
 11. This function just returns an array of numbers. It does this because it uses the discount value from the value parameter to show the numbers with diiscoutned prices in the array.
 
-12: 
-    ```
+12.
     A. student.name
-
     B. student['Grad Year']
-
     C. student.greeting()
-
     D. student['Favorite Teacher'].name
-
-    E. student.courseLoad[0] ```
+    E. student.courseLoad[0]
 
 13.
     ``` 
@@ -68,7 +63,7 @@ in the entire discountedPrices function.
     
     H. '3' - undefined would print out NaN because the "-" would make this line be a math function, so 3 - undefined would be NaN because 3-NaN = NaN. ```
 
-14:
+14.
   ```
     A. '2' > 1 would print true because > is a comparison, so 2 > 1.
    
