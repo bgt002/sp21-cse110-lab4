@@ -93,7 +93,10 @@ in the entire discountedPrices function.
 
 19.  the ouput is:
     1
+
     4
+
     3
+    
     2
     
