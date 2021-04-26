@@ -82,8 +82,9 @@ in the entire discountedPrices function.
     E. true == 2 would print false because true's value is 1, so 1 wouldn't equal to 2.
     
     F true === Boolean(2) would print true because Boolean(2) is the same as true. 
-
-15.  The difference between == and === operators are that == checks for type conversion and === doesn't.```
+    ```
+    
+15.  The difference between == and === operators are that == checks for type conversion and === doesn't.
 
 16.  coded in part1b-question16.
 
