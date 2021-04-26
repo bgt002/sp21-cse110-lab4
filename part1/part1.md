@@ -50,6 +50,7 @@ in the entire discountedPrices function.
     E. student.courseLoad[0]
 
 13.
+    
     A. '3' + 2 would print 32 because since 3 is a string, it would concatenate 2 to 3.
     
     B. '3' - 2 would print 1 because even if 3 is a string, the subtraction sign would change it to be a int, recognizing this as a math function to be 3-2 = 1.
