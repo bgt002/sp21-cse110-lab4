@@ -39,7 +39,7 @@ in the entire discountedPrices function.
 11. This function just returns an array of numbers. It does this because it uses the discount value from the value parameter to show the numbers with diiscoutned prices in the array.
 
 12: 
-    ``` <br>
+    ```
     A. student.name
 
     B. student['Grad Year']
@@ -51,7 +51,7 @@ in the entire discountedPrices function.
     E. student.courseLoad[0] ```
 
 13.
-    ``` <br>
+    ``` 
     A. '3' + 2 would print 32 because since 3 is a string, it would concatenate 2 to 3.
     
     B. '3' - 2 would print 1 because even if 3 is a string, the subtraction sign would change it to be a int, recognizing this as a math function to be 3-2 = 1.
@@ -69,7 +69,7 @@ in the entire discountedPrices function.
     H. '3' - undefined would print out NaN because the "-" would make this line be a math function, so 3 - undefined would be NaN because 3-NaN = NaN. ```
 
 14:
-  ``` <br>
+  ```
     A. '2' > 1 would print true because > is a comparison, so 2 > 1.
    
     B. '2' < '12' would print false because it is comparing chars, so the 2 char is greater than 12.
@@ -82,15 +82,15 @@ in the entire discountedPrices function.
     
     F true === Boolean(2) would print true because Boolean(2) is the same as true. ```
 
-15. The difference between == and === operators are that == checks for type conversion and === doesn't.
+1.  The difference between == and === operators are that == checks for type conversion and === doesn't.
 
-16. coded in part1b-question16.
+2.  coded in part1b-question16.
 
-17. The function returns an array with numbers that are double the value of the first array. modifyArray goes through the value of the original and sends it to doSomething so that doSomething can multiply it by two then return the new numbers into the array.
+3.  The function returns an array with numbers that are double the value of the first array. modifyArray goes through the value of the original and sends it to doSomething so that doSomething can multiply it by two then return the new numbers into the array.
 
-18. coded in part1b-question18
+4.  coded in part1b-question18
 
-19. the ouput is:
+5.  the ouput is:
     1
     4
     3
